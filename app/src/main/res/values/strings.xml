@@ -3,4 +3,5 @@
     <string name="no_alarm">No Alarm set</string>
     <string name="open_time">Open time picker</string>
     <string name="cancel_alarm">Cancel alarm</string>
+    <string name="alarm_cancelled">Alarm Cancelled</string>
 </resources>
